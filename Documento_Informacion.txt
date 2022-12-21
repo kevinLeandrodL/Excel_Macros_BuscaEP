@@ -1,0 +1,6 @@
+Creacion Macros
+Codigo Completo: kevinleandrodl@gmail.com
+Descomprimir el .zip
+Inventario de BuscarV
+Inventario de BuscarH
+Inventario de CoincidenciaEXACTA&PARCIAL
